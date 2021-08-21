@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72c923f9.chunk.css",
+    "main.js": "/static/js/main.954a5b3c.chunk.js",
+    "main.js.map": "/static/js/main.954a5b3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.51388240.js",
+    "runtime-main.js.map": "/static/js/runtime-main.51388240.js.map",
+    "static/js/2.4cb6176a.chunk.js": "/static/js/2.4cb6176a.chunk.js",
+    "static/js/2.4cb6176a.chunk.js.map": "/static/js/2.4cb6176a.chunk.js.map",
+    "static/js/3.f6234d2d.chunk.js": "/static/js/3.f6234d2d.chunk.js",
+    "static/js/3.f6234d2d.chunk.js.map": "/static/js/3.f6234d2d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.72c923f9.chunk.css.map": "/static/css/main.72c923f9.chunk.css.map",
+    "static/js/2.4cb6176a.chunk.js.LICENSE.txt": "/static/js/2.4cb6176a.chunk.js.LICENSE.txt",
+    "static/media/house.f97ade72.svg": "/static/media/house.f97ade72.svg",
+    "static/media/search.0b48a2f9.svg": "/static/media/search.0b48a2f9.svg",
+    "static/media/spotify.02ccaa93.svg": "/static/media/spotify.02ccaa93.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51388240.js",
+    "static/js/2.4cb6176a.chunk.js",
+    "static/css/main.72c923f9.chunk.css",
+    "static/js/main.954a5b3c.chunk.js"
+  ]
+}
