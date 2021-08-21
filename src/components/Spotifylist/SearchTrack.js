@@ -27,7 +27,7 @@ const SearchTrack = () => {
 
   const saveAndContinue = (e) => {
     e.preventDefault();
-    if (e.target.value == "Select"){
+    if (e.target.value === "Select"){
       e.target.value = "Deselect";
     } else {
       e.target.value = "Select";
